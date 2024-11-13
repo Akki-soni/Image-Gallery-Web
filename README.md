@@ -32,9 +32,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For creating the structure and content of the product page.
-- **CSS3**: For styling the page, making it visually appealing and responsive using Flexbox/Grid.
-- **JavaScript**: For adding interactivity, such as dynamic product image displays or buttons.
+- **HTML5**: For structuring the web page.
+- **CSS3**: For styling the gallery layout, including grid and flexbox.
+- **JavaScript**: For adding interactivity like the modal window and hover effects.
 
 ## 🚀 How to Use
 
