@@ -23,10 +23,12 @@
 
 ## 🚀 Features
 
-- **Responsive Design**: Adjusts to different screen sizes, providing an optimal user experience across devices.
-- **Product Images**: Display with hover effects and responsive scaling.
-- **Product Information**: Clear presentation of product name, description, and pricing.
-- **Interactive Elements**: Dynamic functionality added using JavaScript for enhanced user interaction.
+- **Responsive Design**: The gallery adjusts to different screen sizes (mobile, tablet, and desktop) using CSS media queries.
+- **Interactive Elements**: Images can be clicked to view in a larger size or open in a modal.
+- **Hover Effects**: Smooth hover animations to enhance user experience.
+- **Lightbox Effect**: Displays a larger version of the image in an overlay.
+- **Image Filtering**: Optional feature to filter images based on categories.
+- **Lazy Loading**: Images load only when they come into the viewport, improving performance.
 
 ## 🛠️ Technologies Used
 
