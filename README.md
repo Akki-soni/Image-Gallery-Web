@@ -39,7 +39,7 @@
 ## 🚀 How to Use
 
 - ***Open the `index.html` file in your browser.***
-- ***Check T-shirt According to your size and Click Buy Now***
+- ***Rotate or Click the arrow key to scroll the image.***
 
 ## 🚀 Project Setup
 
@@ -47,7 +47,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Product-Page-Design-Web.git>
-cd Product-page-design-web
+cd Image-Gallery-Web
 open index.html
 ```
 
