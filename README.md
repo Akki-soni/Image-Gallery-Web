@@ -65,7 +65,7 @@ open index.html
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://image-gallery-web-ashen.vercel.app/)
 
 ## 🤝 Contributing
 
