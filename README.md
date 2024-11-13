@@ -61,11 +61,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Product-Page-Design-Screenshot](/images/P-P-D_Screenshot.png)
+![Image-Gallery-Screenshot](/images/I-G_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://product-page-design-web.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
